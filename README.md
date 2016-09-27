@@ -10,7 +10,7 @@ Developed with Mathematica 10.0.1.0
 # Installation 
 * In a Mathematica notebook, input `$UserBaseDirectory`.
 * Within this directory, look for the folder `Applications`.
-* Store the files that make up the package in a subfoder of `Applications` to be named `Emphasis`.      
+* Store the files that make up the package in a subfolder of `Applications` to be named `Emphasis`.      
 
 # Getting Started 
 * To load the package from a notebook, type ``<<Emphasis` ``.
