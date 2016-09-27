@@ -1,5 +1,5 @@
-*Emphasis 1.1*
-by A. Favaro
+*Emphasis 1.1*  
+by A. Favaro  
 05 August 2016
 
 Developed with Mathematica 10.0.1.0
@@ -13,7 +13,7 @@ Developed with Mathematica 10.0.1.0
 * Store the files that make up the package in a subfoder of `Applications` to be named `Emphasis`.      
 
 # Getting Started 
-* To load the package from a notebook, type `<<Emphasis``.
+* To load the package from a notebook, type ``<<Emphasis` ``.
 * The notebook `Examples_Emphasis.nb`, accompanying the package, describes useful examples. 
 
 # Acknowledgements 
